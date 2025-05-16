@@ -3,7 +3,7 @@ layout: post
 title: Introduction
 description: 
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 
