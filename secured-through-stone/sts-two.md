@@ -2,8 +2,8 @@
 layout: post
 title: "Chapter Two: <br><i> Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i>"
 description: 
-image: assets/images/jelling-pano.jpg
-nav-menu: true
+image: images/jelling-pano.jpg
+nav-menu: false
 ---
 
 
