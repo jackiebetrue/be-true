@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: landing
 title: Museum Work
 image: 
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
