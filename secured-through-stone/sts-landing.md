@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Start here to get a feel for what I wrote about.</p>
 				<ul class="actions">
-					<li><a href="secured-through-stone/sts-intro.md" class="button">Read more</a></li>
+					<li><a href="sts-intro" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
