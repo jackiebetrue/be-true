@@ -4,6 +4,7 @@ title: "Chapter One: <br><i>'It is Customary to Relate the Deeds of Those Whose 
 description: 
 image: 
 nav-menu: false
+show_tile: false
 ---
 
 
