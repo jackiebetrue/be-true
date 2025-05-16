@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p><i>“It is Customary to Relate the Deeds of Those Whose Reputation Stands High Above the Rest”: Thyra in the Texts</i></p>
 				<ul class="actions">
-					<li><a href="secured-through-stone/sts-one.md" class="button">Read more</a></li>
+					<li><a href="sts-one" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="secured-through-stone/sts-two.md" class="button">Read more</a></li>
+					<li><a href="sts-two" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 				</header>
 				<p><i>“Commemorate the Things That Ought to Be Remembered”: Materiality and Memory of the Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="secured-through-stone/sts-three.md" class="button">Read more</a></li>
+					<li><a href="sts-three" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -96,7 +96,7 @@ nav-menu: true
 				</header>
 				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="secured-through-stone/sts-epilogue.md" class="button">Read More more</a></li>
+					<li><a href="sts-epilogue" class="button">Read More more</a></li>
 				</ul>
 			</div>
 		</div>
