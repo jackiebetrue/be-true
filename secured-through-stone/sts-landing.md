@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="sts-intro.md" class="image">
+		<a href="secured-through-stone/sts-intro.md" class="image">
 			<img src="{% link secured-through-stone/images/me-jelling1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -32,13 +32,13 @@ nav-menu: true
 				</header>
 				<p>Start here to get a feel for what I wrote about.</p>
 				<ul class="actions">
-					<li><a href="sts-intro.md" class="button">Read more</a></li>
+					<li><a href="secured-through-stone/sts-intro.md" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="sts-one.md" class="image">
+		<a href="secured-through-stone/sts-one.md" class="image">
 			<img src="{% link secured-through-stone/images/saxo-angers-fragment.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -48,23 +48,55 @@ nav-menu: true
 				</header>
 				<p><i>“It is Customary to Relate the Deeds of Those Whose Reputation Stands High Above the Rest”: Thyra in the Texts</i></p>
 				<ul class="actions">
-					<li><a href="sts-one.md" class="button">Learn more</a></li>
+					<li><a href="secured-through-stone/sts-one.md" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="secured-through-stone/sts-two.md" class="image">
+			<img src="{% link secured-through-stone/images/jelling1A-lille.jpg %}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Chapter Two</h3>
+				</header>
+				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
+				<ul class="actions">
+					<li><a href="secured-through-stone/sts-two.md" class="button">Read more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="secured-through-stone/sts-three.md" class="image">
+			<img src="{% link secured-through-stone/images/night-jelling.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Chapter Three</h3>
+				</header>
+				<p><i>“Commemorate the Things That Ought to Be Remembered”: Materiality and Memory of the Jelling Dynasty</i></p>
+				<ul class="actions">
+					<li><a href="secured-through-stone/sts-three.md" class="button">Read more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="secured-through-stone/sts-epilogue.md" class="image">
 			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Epilogue</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="secured-through-stone/sts-epilogue.md" class="button">Read More more</a></li>
 				</ul>
 			</div>
 		</div>
