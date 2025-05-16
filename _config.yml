@@ -2,7 +2,7 @@
 title: Jackie.Be.True
 subtitle: A Creative Portfolio
 email: 
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Historian, Museum Professional, Goofball.
 baseurl: "/be-true" 
 url: jackie-be-true/be-true
 author: Jackie Truitt
@@ -19,7 +19,7 @@ tiles-count: 6
 socials:
   
   Instagram: https://www.instagram.com/jackie.be.true/
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+  
 
 
 # build settings
@@ -33,3 +33,5 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
+- sts-intro.md
+- sts-one.md
