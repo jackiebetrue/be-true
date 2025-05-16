@@ -4,6 +4,7 @@ title: "Chapter Two: <br><i> Secured Through Stone: Thyra, Runestones, and the M
 description: 
 image: images/jelling-pano.jpg
 nav-menu: false
+show_tile: false
 ---
 
 
