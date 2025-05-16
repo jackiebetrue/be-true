@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="sts-two" class="button">Read more</a></li>
+					<li><a href="" class="button">Coming Soon</a></li>
 				</ul>
 			</div>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: true
 				</header>
 				<p><i>“Commemorate the Things That Ought to Be Remembered”: Materiality and Memory of the Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="sts-three" class="button">Read more</a></li>
+					<li><a href="" class="button">Coming Soon</a></li>
 				</ul>
 			</div>
 		</div>
@@ -96,24 +96,11 @@ nav-menu: true
 				</header>
 				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="sts-epilogue" class="button">Read More more</a></li>
+					<li><a href="" class="button">Coming Soon</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
 </section>
 
 </div>
