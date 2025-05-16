@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: 'Secured Through Stone: The Power, Monuments, and Memory of Thyra <i>Danmarkarbót</i> and the Jelling Dynasty'
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'My 2025 MA Thesis'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
