@@ -13,42 +13,42 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Abstract</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Sometime in the mid-tenth century on the Jutland peninsula of Denmark, the Viking Age Queen Thyra (d. ca. 958/9) passed away and the epithet <i>Danmarkarbót</i>—Denmark’s Adornment—was skillfully carved onto her memorial runestone. Yet Thyra’s story has been clouded by few and unreliable textual sources, by differing assessments of her familial background that have emerged from those sources, and by misrepresentations of the material culture relating to her. This thesis explores Thyra and her place within the Viking Age Jelling dynasty through textual and material evidence and considers how the construction of both medieval and modern memory work and memorialization and commemorative practice influence our understanding of her and the life she may have led.</p>
 	</div>
 </section>
 
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		<a href="sts-intro.md" class="image">
+			<img src="{% link secured-through-stone/images/me-jelling1.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Introduction</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Start here to get a feel for what I wrote about.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="sts-intro.md" class="button">Read more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		<a href="sts-one.md" class="image">
+			<img src="{% link assets/images/saxo-angers-fragment.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Chapter One</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p><i>“It is Customary to Relate the Deeds of Those Whose Reputation Stands High Above the Rest”: Thyra in the Texts</i></p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="sts-one.md" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
