@@ -3,7 +3,7 @@ layout: post
 title: "Chapter One: <br><i>'It is Customary to Relate the Deeds of Those Whose Reputation Stands High Above the Rest': Thyra in the Texts</i>" 
 description: 
 image: 
-nav-menu: true
+nav-menu: false
 ---
 
 
