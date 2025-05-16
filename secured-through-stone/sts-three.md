@@ -2,8 +2,8 @@
 layout: post
 title: 'Chapter Three: <br> <i>“Commemorate the Things That Ought to Be Remembered”: Materiality and Memory of the Jelling Dynasty</i>'
 description: 
-image: assets/images/jelling-pano.jpg
-nav-menu: true
+image: images/jelling-pano.jpg
+nav-menu: false
 ---
 
 
