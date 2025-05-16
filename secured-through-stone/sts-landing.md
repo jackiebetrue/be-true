@@ -64,7 +64,7 @@ nav-menu: true
 				</header>
 				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
 				<ul class="actions">
-					<li><a href="" class="button">Coming Soon</a></li>
+					<li><a href="sts-two" class="button">Coming Soon</a></li>
 				</ul>
 			</div>
 		</div>
