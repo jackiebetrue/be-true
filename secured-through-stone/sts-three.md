@@ -4,6 +4,7 @@ title: 'Chapter Three: <br> <i>“Commemorate the Things That Ought to Be Rememb
 description: 
 image: images/jelling-pano.jpg
 nav-menu: false
+show_tile: false
 ---
 
 
