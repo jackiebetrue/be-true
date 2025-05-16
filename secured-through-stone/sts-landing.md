@@ -94,7 +94,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Epilogue</h3>
 				</header>
-				<p><i>Secured Through Stone: Thyra, Runestones, and the Monumental Jelling Dynasty</i></p>
+				<p>What does it mean to study medieval women through the lenses of memory and materiality? Where and whomelse might we apply these lenses to?</p>
 				<ul class="actions">
 					<li><a href="" class="button">Coming Soon</a></li>
 				</ul>
