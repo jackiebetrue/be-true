@@ -2,7 +2,7 @@
 title: 'Secured Through Stone: The Power, Monuments, and Memory of Thyra <i>Danmarkarbót</i> and the Jelling Dynasty'
 layout: landing
 description: 'My 2025 MA Thesis'
-image: assets/images/pic07.jpg
+image: secured-through-stone/images/jelling-pano.jpg
 nav-menu: true
 ---
 
