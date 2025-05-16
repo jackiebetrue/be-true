@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Epilogue: The Memory of Medieval Women"
+title: "Epilogue: <br><i> The Memory of Medieval Women</i>"
 description: 
 image: assets/images/jelling-pano.jpg
 nav-menu: false
