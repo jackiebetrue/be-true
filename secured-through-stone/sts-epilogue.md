@@ -4,6 +4,7 @@ title: "Epilogue: <br><i> The Memory of Medieval Women</i>"
 description: 
 image: assets/images/jelling-pano.jpg
 nav-menu: false
+show_tile: false
 ---
 
 
