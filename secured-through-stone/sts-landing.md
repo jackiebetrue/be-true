@@ -87,7 +87,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="secured-through-stone/sts-epilogue.md" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link secured-through-stone/images/jesper-ejsing-thyra.jpg %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
