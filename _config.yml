@@ -2,7 +2,7 @@
 title: Jackie.Be.True
 subtitle: A Creative Portfolio
 email: 
-description: Historian, Museum Professional, Goofball.
+description: Historian, Museum Professional, Goofball
 baseurl: "/be-true" 
 url: jackie-be-true/be-true
 author: Jackie Truitt
@@ -33,5 +33,8 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-- sts-intro.md
-- sts-one.md
+- secured-through-stone/sts-intro.md
+- secured-through-stone/sts-one.md
+- secured-through-stone/sts-two.md
+- secured-through-stone/sts-three.md
+- secured-through-stone/sts-epilogue.md
