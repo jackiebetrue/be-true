@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cirriculum Vitae
+title: Museum Work
 image: 
 nav-menu: true
 ---
