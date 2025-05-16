@@ -4,6 +4,7 @@ layout: landing
 description: 'My 2025 MA Thesis'
 image: secured-through-stone/images/jelling-pano.jpg
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
