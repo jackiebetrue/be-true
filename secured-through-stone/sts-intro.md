@@ -4,6 +4,7 @@ title: Introduction
 description: 
 image: 
 nav-menu: false
+show_tile: false
 ---
 
 
