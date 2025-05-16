@@ -39,7 +39,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="sts-one.md" class="image">
-			<img src="{% link assets/images/saxo-angers-fragment.jpg %}" alt="" data-position="top center" />
+			<img src="{% link secured-through-stone/images/saxo-angers-fragment.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
