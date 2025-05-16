@@ -3,7 +3,7 @@ layout: post
 title: "Epilogue: The Memory of Medieval Women"
 description: 
 image: assets/images/jelling-pano.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 
