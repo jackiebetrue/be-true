@@ -35,14 +35,15 @@ show_tile: true
 	
  	<dt>2022</dt>
 	<dd>
-		<p>**B.A. Anthropology**. Archaeology concentration
-		<b>B.A. History</b></p>
-		Minor: Museum Studies</p>
+		<p><b>B.A. Anthropology</b>. Archaeology concentration
+		<b>B.A. History</b>
+		Minor: Museum Studies
 		University of New Mexico, Albuquerque</p>
 		History Honors Thesis: <i>An Exploration of Nordic Food Culture of the Viking Age</i></p>
 		Advisor: Timothy Graham, PhD               
 		Honors: Summa Cum Laude</p>
 	</dd>
+ </dl>
 
 <div class="row">
 	<div class="6u 12u$(small)">
