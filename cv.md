@@ -38,8 +38,8 @@ show_tile: true
 		<p><b>B.A. Anthropology</b>. Archaeology concentration
 		<br><b>B.A. History</b>
 		<br>Minor: Museum Studies
-		<br>University of New Mexico, Albuquerque</p>
-		<br>History Honors Thesis: <i>An Exploration of Nordic Food Culture of the Viking Age</i></p>
+		<br>University of New Mexico, Albuquerque
+		<br>History Honors Thesis: <i>An Exploration of Nordic Food Culture of the Viking Age</i>
 		<br>Advisor: Timothy Graham, PhD               
 		<br>Honors: Summa Cum Laude</p>
 	</dd>
