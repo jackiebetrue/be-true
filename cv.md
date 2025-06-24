@@ -3,6 +3,7 @@ layout: page
 title: Cirriculum Vitae
 image: 
 nav-menu: true
+show_tile: true
 ---
 
 <!-- Main -->
@@ -12,16 +13,40 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Jacquelyn Truitt 2025 CV</h1>
+			<h3>jackiebetrue@unm.edu</h3>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">Education</h2>
+<!-- Break -->
+
+<dl>
+	<dt>2025</dt>
+	<dd>
+		<p>**M.A. History**. Focus: The Western World to 1500</p>
+		<p>Minor: Museum Studies</p>
+		<p>University of New Mexico, Albuquerque</p>
+		<p>Thesis: _Secured Through Stone: Power, Monuments, and Memory of a Viking Age Queen_</p>
+		<p>Advisor: Timothy Graham, PhD</p>
+		<p>Honors: Summa Cum Laude</p>
+	</dd>
+	
+ 	<dt>2022</dt>
+	<dd>
+		<p>**B.A. Anthropology**. Archaeology concentration</p>
+		<p>**B.A. History**</p>
+		<p>Minor: Museum Studies</p>
+		<p>University of New Mexico, Albuquerque</p>
+		<p>History Honors Thesis: _An Exploration of Nordic Food Culture of the Viking Age_</p>
+		<p>Advisor: Timothy Graham, PhD</p>               
+		<p>Honors: Summa Cum Laude</p>
+	</dd>
+
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>2025</h3>
+		<p><center> Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
