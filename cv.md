@@ -14,33 +14,34 @@ show_tile: true
 	<div class="inner">
 		<header class="major">
 			<h1>Jacquelyn Truitt 2025 CV</h1>
-			<h3>jackiebetrue@unm.edu</h3>
+			jackiebetrue@unm.edu
 		</header>
 
 <!-- Content -->
 <h2 id="content">Education</h2>
 <!-- Break -->
+---
 
 <dl>
 	<dt>2025</dt>
 	<dd>
-		<p>**M.A. History**. Focus: The Western World to 1500</p>
-		<p>Minor: Museum Studies</p>
-		<p>University of New Mexico, Albuquerque</p>
-		<p>Thesis: _Secured Through Stone: Power, Monuments, and Memory of a Viking Age Queen_</p>
-		<p>Advisor: Timothy Graham, PhD</p>
-		<p>Honors: Summa Cum Laude</p>
+		<p><b>M.A. History</b>. Focus: The Western World to 1500
+		Minor: Museum Studies
+		University of New Mexico, Albuquerque
+		Thesis: <i>Secured Through Stone: Power, Monuments, and Memory of a Viking Age Queen</i>
+		Advisor: Timothy Graham, PhD
+		Honors: Summa Cum Laude</p>
 	</dd>
 	
  	<dt>2022</dt>
 	<dd>
-		<p>**B.A. Anthropology**. Archaeology concentration</p>
-		<p>**B.A. History**</p>
-		<p>Minor: Museum Studies</p>
-		<p>University of New Mexico, Albuquerque</p>
-		<p>History Honors Thesis: _An Exploration of Nordic Food Culture of the Viking Age_</p>
-		<p>Advisor: Timothy Graham, PhD</p>               
-		<p>Honors: Summa Cum Laude</p>
+		<p>**B.A. Anthropology**. Archaeology concentration
+		<b>B.A. History</b></p>
+		Minor: Museum Studies</p>
+		University of New Mexico, Albuquerque</p>
+		History Honors Thesis: <i>An Exploration of Nordic Food Culture of the Viking Age</i></p>
+		Advisor: Timothy Graham, PhD               
+		Honors: Summa Cum Laude</p>
 	</dd>
 
 <div class="row">
