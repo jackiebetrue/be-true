@@ -63,7 +63,10 @@ show_tile: true
 		<br>Arizona Culinary Institute, Scottsdale, AZ</p>
 	</dd>
 
----
+
+
+-----
+
 
 
  <h2 id="content">Awards & Scholarships</h2>
@@ -120,7 +123,10 @@ show_tile: true
  </dl>
 
 
----
+
+-----
+
+
 
  <h2 id="content">Conference Presentations</h2>
 <!-- Break -->
@@ -152,17 +158,28 @@ show_tile: true
 		<br> "Going Global" round-table presentation: "The Material Culture of Sorte Muld</p>
 	</dd>
 
- ---
 
-  <h2 id="content">Conference Presentations</h2>
+
+ -----
+
+ 
+
+  <h2 id="content">Field Experience</h2>
 <!-- Break -->
 
 
 <dl>
-	<dt>Women of the Viking World Conference</dt>
+	<dt>Student Field Assistant</dt>
 	<dd>
-		<p> <i>August 27 - 18, 2024. University of Liverpool, Liverpool, UK</i>
-		<br> Panel presentation: "Secured Through Stone: The Artifactual Afterlife of Queen Thyra and the Jelling Dynasty"</p>
+		<p> <i>May - June, 2022. Sorte Muld Field School. Bornholms Museum, Bornholm, Denmark
+		<br> Supervisor: Nicolás Caretta, PhD, nc@bornholmsmuseum.dk</i>
+		<br> Assisted in the day-to-day operations of an active Iron Age and medieval archaeological site:
+		<br> - Plot coordination and use of measurement tools, including Total Station
+		<br> - Excavation of work area including the careful analysis and removal of plow and cultural layers
+		<br> - Rough and fine wet sieving and sorting processes
+		<br> - Object indentification, sorting, labeling, and temporary storage solutions
+		<br> Introduction to site photography and photogrammetry
+		<br> Cultural history lessons</p>
 	</dd>
 
  
