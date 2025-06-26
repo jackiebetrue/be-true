@@ -54,8 +54,8 @@ show_tile: true
  	<dt>2017</dt>
 	<dd>
 		<p><b>Tour Director and Guide Certification</b>
-		<br>International Tour Management Institute, Sausalito, CA
-	</dd></p>
+		<br>International Tour Management Institute, Sausalito, CA</p>
+	</dd>
 
  	<dt>2011</dt>
 	<dd>
@@ -72,7 +72,8 @@ show_tile: true
 	<dt>2025</dt>
 	<dd>
 		<p> <li>Joseph C. Gallagher Scholarship for Study in Ireland and Europe, UNM</li>
-		<br> <li>First Place - UNM History Graduate Student Association Poster Contest: <i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i></li>
+		<br> <li>First Place - UNM History Graduate Student Association Poster Contest: 
+		<br><i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i></li>
 		<br> <li>History Graduate Student Association Grant, UNM</li></p>
 	</dd>
 
@@ -85,34 +86,34 @@ show_tile: true
 
   <dt>2022 - 24</dt>
 	<dd>
-		<p>New Mexico Higher Education Department Scholarship</p>
+		<p> - New Mexico Higher Education Department Scholarship</p>
 	</dd>
 
   <dt>2023</dt>
 	<dd>
-		<p>Travel Grant, Institute for Medieval Studies, UNM
-		<br> History Department Travel Grant
-		<br> Museum Studies Department Travel Grant, UNM
-		<br> Passport to Success Travel Scholarship, Global Education Office, UNM</p>
+		<p> - Travel Grant, Institute for Medieval Studies, UNM
+		<br> - History Department Travel Grant
+		<br> - Museum Studies Department Travel Grant, UNM
+		<br> - Passport to Success Travel Scholarship, Global Education Office, UNM</p>
 	</dd>
 
  <dt>2022 - 23</dt>
 	<dd>
-		<p>Hibben Graduate Fellowship in Museum Studieds, Frank C. Hibben Charitable Trust
-		<br> New Mexico Association of Museum's Annual Conference Student Scholarship</p>
+		<p> - Hibben Graduate Fellowship in Museum Studieds, Frank C. Hibben Charitable Trust
+		<br> - New Mexico Association of Museum's Annual Conference Student Scholarship</p>
 	</dd>
 
  <dt>2022</dt>
 	<dd>
-		<p> New Mexico Association of Museum's Annual Conference Student Scholarship
-		<br> Vera R. Campbell Promise Scholarship, Institute for Field Research
-		<br> Foulk Medieval Studies Scholarship, Institute for Medieval Studies, UNM
-		<br> Charles E. Coan Memorial Award, UNM Department of History</p>
+		<p> - New Mexico Association of Museum's Annual Conference Student Scholarship
+		<br> - Vera R. Campbell Promise Scholarship, Institute for Field Research
+		<br> - Foulk Medieval Studies Scholarship, Institute for Medieval Studies, UNM
+		<br> - Charles E. Coan Memorial Award, UNM Department of History</p>
 	</dd>
 
  <dt>2021 - 22</dt>
 	<dd>
-		<p> Cheryl L. Wase Memorial Scholarship for the Study of Archaeology, Society for American Archaeology</p>
+		<p> - Cheryl L. Wase Memorial Scholarship for the Study of Archaeology, Society for American Archaeology</p>
 	</dd>
  </dl>
 
