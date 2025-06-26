@@ -28,7 +28,7 @@ show_tile: true
 		<p><b>M.A. History</b>. Focus: The Western World to 1500
 		<br>Minor: Museum Studies
 		<br>University of New Mexico, Albuquerque
-		<br>Thesis: <i>Secured Through Stone: Power, Monuments, and Memory of a Viking Age Queen</i>
+		<br>Thesis: <i>The Secured Through Stone: Power, Monuments, and Memory of a Viking Age Queen</i>
 		<br>Advisor: Timothy Graham, PhD
 		<br>Honors: Summa Cum Laude</p>
 	</dd>
@@ -44,16 +44,80 @@ show_tile: true
 		<br>Honors: Summa Cum Laude</p>
 	</dd>
  
- 	<dt>2022</dt>
+ 	<dt>2020</dt>
 	<dd>
-		<p><b>B.A. Anthropology</b>. Archaeology concentration
-		<br><b>B.A. History</b>
-		<br>Minor: Museum Studies
-		<br>University of New Mexico, Albuquerque
-		<br>History Honors Thesis: <i>An Exploration of Nordic Food Culture of the Viking Age</i>
-		<br>Advisor: Timothy Graham, PhD               
-		<br>Honors: Summa Cum Laude</p>
+		<p><b>A.A Anthropology</b>. Archaeology concentration
+		<br><b>A.A Liberal Arts</b>
+		<br>Central New Mexico Community College Albuquerque</p>
+	</dd>
+
+ 	<dt>2017</dt>
+	<dd>
+		<p><b>Tour Director and Guide Certification</b>
+		<br>International Tour Management Institute, Sausalito, CA
+	</dd></p>
+
+ 	<dt>2011</dt>
+	<dd>
+		<p><b>Culinary Arts, Baking, and Restaurant Management Diploma</b>
+		<br>Arizona Culinary Institute, Scottsdale, AZ</p>
 	</dd>
  </dl>
+
+ <h2 id="content">Awards & Scholarships</h2>
+<!-- Break -->
+
+
+<dl>
+	<dt>2025</dt>
+	<dd>
+		<p>Joseph C. Gallagher Scholarship for Study in Ireland and Europe, UNM
+		<br> First Place - UNM History Graduate Student Association Poster Contest: <i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i>
+		<br> History Graduate Student Association Grant, UNM</p>
+	</dd>
+
+ <dt>2024</dt>
+	<dd>
+		<p>Timothy C. Graham Travel Award, Institute for Medieval Studies, UNM
+		<br> History Department Travel Grant, UNM
+		<br> Clarence and Emily Rogers Research Scholarship, Office of Graduate Studies, UNM</p>
+	</dd>
+
+  <dt>2022 - 24</dt>
+	<dd>
+		<p>New Mexico Higher Education Department Scholarship</p>
+	</dd>
+
+  <dt>2023</dt>
+	<dd>
+		<p>Travel Grant, Institute for Medieval Studies, UNM
+		<br> History Department Travel Grant
+		<br> Museum Studies Department Travel Grant, UNM
+		<br> Passport to Success Travel Scholarship, Global Education Office, UNM</p>
+	</dd>
+
+ <dt>2022 - 23</dt>
+	<dd>
+		<p>Hibben Graduate Fellowship in Museum Studieds, Frank C. Hibben Charitable Trust
+		<br> New Mexico Association of Museum's Annual Conference Student Scholarship</p>
+	</dd>
+
+ <dt>2022</dt>
+	<dd>
+		<p> New Mexico Association of Museum's Annual Conference Student Scholarship
+		<br> Vera R. Campbell Promise Scholarship, Institute for Field Research
+		<br> Foulk Medieval Studies Scholarship, Institute for Medieval Studies, UNM
+		<br> Charles E. Coan Memorial Award, UNM Department of History</p>
+	</dd>
+
+ <dt>2021 - 22</dt>
+	<dd>
+		<p> Cheryl L. Wase Memorial Scholarship for the Study of Archaeology, Society for American Archaeology</p>
+	</dd>
+ </dl>
+
+
+ 
+
 
 
