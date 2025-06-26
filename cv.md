@@ -63,6 +63,8 @@ show_tile: true
 		<br>Arizona Culinary Institute, Scottsdale, AZ</p>
 	</dd>
 
+---
+
 
  <h2 id="content">Awards & Scholarships</h2>
 <!-- Break -->
@@ -117,6 +119,51 @@ show_tile: true
 	</dd>
  </dl>
 
+
+---
+
+ <h2 id="content">Conference Presentations</h2>
+<!-- Break -->
+
+
+<dl>
+	<dt>Women of the Viking World Conference</dt>
+	<dd>
+		<p> <i>August 27 - 18, 2024. University of Liverpool, Liverpool, UK</i>
+		<br> Panel presentation: "Secured Through Stone: The Artifactual Afterlife of Queen Thyra and the Jelling Dynasty"</p>
+	</dd>
+
+ <dt>UNM Medieval Studies Student Association Colloquium</dt>
+	<dd>
+		<p> <i>April 9, 2024. University of New Mexico, Albuquerque, New Mexico</i>
+		<br> Panel presentation: "Secured Through Stone: The Artifactual Afterlife of Queen Thyra and the Jelling Dynasty"</p>
+	</dd>
+
+ <dt>UNM Medieval Studies Student Association Colloquium</dt>
+	<dd>
+		<p> <i>November 8, 2023. University of New Mexico, Albuquerque, New Mexico</i>
+		<br> Panel presentation: "Connections in Context: The Material Culture of Sotre Muld, an Early Medieval Scandinavian Central Place"</p>
+	</dd>
+
+  <dt>Fifty-Fifth Annual Rocky Mountain Medieval and Rennaissance Association Conference</dt>
+	<dd>
+		<p> <i>April 13 - 15, 2023. University of Colorado, Fort Collins, Colorado</i>
+		<br> Panel presentation: "'You Are Eating Memories': An Exploration of Nordic Food Culture of the Viking Age"
+		<br> "Going Global" round-table presentation: "The Material Culture of Sorte Muld</p>
+	</dd>
+
+ ---
+
+  <h2 id="content">Conference Presentations</h2>
+<!-- Break -->
+
+
+<dl>
+	<dt>Women of the Viking World Conference</dt>
+	<dd>
+		<p> <i>August 27 - 18, 2024. University of Liverpool, Liverpool, UK</i>
+		<br> Panel presentation: "Secured Through Stone: The Artifactual Afterlife of Queen Thyra and the Jelling Dynasty"</p>
+	</dd>
 
  
 
