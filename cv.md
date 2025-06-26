@@ -62,7 +62,7 @@ show_tile: true
 		<p><b>Culinary Arts, Baking, and Restaurant Management Diploma</b>
 		<br>Arizona Culinary Institute, Scottsdale, AZ</p>
 	</dd>
- </dl>
+
 
  <h2 id="content">Awards & Scholarships</h2>
 <!-- Break -->
@@ -71,16 +71,16 @@ show_tile: true
 <dl>
 	<dt>2025</dt>
 	<dd>
-		<p>Joseph C. Gallagher Scholarship for Study in Ireland and Europe, UNM
-		<br> First Place - UNM History Graduate Student Association Poster Contest: <i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i>
-		<br> History Graduate Student Association Grant, UNM</p>
+		<p> - Joseph C. Gallagher Scholarship for Study in Ireland and Europe, UNM
+		<br> - First Place - UNM History Graduate Student Association Poster Contest: <i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i>
+		<br> - History Graduate Student Association Grant, UNM</p>
 	</dd>
 
  <dt>2024</dt>
 	<dd>
-		<p>Timothy C. Graham Travel Award, Institute for Medieval Studies, UNM
-		<br> History Department Travel Grant, UNM
-		<br> Clarence and Emily Rogers Research Scholarship, Office of Graduate Studies, UNM</p>
+		<p> - Timothy C. Graham Travel Award, Institute for Medieval Studies, UNM
+		<br> - History Department Travel Grant, UNM
+		<br> - Clarence and Emily Rogers Research Scholarship, Office of Graduate Studies, UNM</p>
 	</dd>
 
   <dt>2022 - 24</dt>
