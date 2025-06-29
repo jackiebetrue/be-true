@@ -199,5 +199,153 @@ show_tile: true
 		<br> Supervisor: Timothy Graham, PhD, tgraham@unm.edu </i>
 		<br> - Course grader, including holding regular office hours to meet with and assist students with any and all course and content related questions.
 		<br> - Maintained student records and upheld any federal, local and/or institutional policies (e.g. FERPA)
+		<br> - Assisted professor with any classroom, scheduling, or technical functions related to class</p>
+	</dd>
+
+<dt>Spies in History, Teaching Assistant</dt>
+	<dd>
+		<p> <i>August - December, 2024. University of New Mexico Department of History
+		<br> Supervisor: Caleb Richardson, PhD, cwr@unm.edu </i>
+		<br> - Course grader, including holding regular office hours to meet with and assist students with any and all course and content related questions.
+		<br> - Maintained student records and upheld any federal, local and/or institutional policies (e.g. FERPA)
+		<br> - Assisted professor with any classroom, scheduling, or technical functions related to class</p>
+	</dd>
+
+ <dt>Playing the Modern Past, Teaching Assistant</dt>
+	<dd>
+		<p> <i>January - May, 2024. University of New Mexico Department of History
+		<br> Supervisor: Caleb Richardson, PhD, cwr@unm.edu </i>
+		<br> - Course grader, including holding regular office hours to meet with and assist students with any and all course and content related questions.
+		<br> - Maintained student records and upheld any federal, local and/or institutional policies (e.g. FERPA)
 		<br> - Assisted professor with any classroom, scheduling, or technical functions related to class
+		<br> - Acted as co-Game Master for Reacting to the Past creative pedagogy during class time
+		<br> - Designed and created props for use in the classroom setting</p>
+	</dd>
+
+ <dt>United States History ~1492 - 1877, Teaching Assistant</dt>
+	<dd>
+		<p> <i>August - December, 2023. University of New Mexico Department of History
+		<br> Supervisor: Katherine Massoth, PhD, kmassoth@unm.edu </i>
+		<br> - Course grader, including holding regular office hours to meet with and assist students with any and all course and content related questions.
+		<br> - Maintained student records and upheld any federal, local and/or institutional policies (e.g. FERPA)
+		<br> - Assisted professor with any classroom, scheduling, or technical functions related to class</p>
+	</dd>
+
+ <dt>Membership Assistant</dt>
+	<dd>
+		<p> <i>January - May, 2023. Maxwell Museum of Anthropology
+		<br> Supervisor: Julián Antonio Carrillo, PhD, jac123@unm.edu </i>
+		<br> - Creation and management of the museum's membership database and all pertinent membership documents and mailers.
+		<br> - Upkeep of database, membership renewal reminders, and member processing</p>
+	</dd>
+
+  <dt>Achaeology Collections Assistant</dt>
+	<dd>
+		<p> <i>August 2022 - December, 2023. Maxwell Museum of Antrhopology
+		<br> Supervisor: Karen Price, priceke@unm.edu </i>
+		<br> Assisted with Maxwell Museum archaeology volunteers:
+		<br> - Retrieved collections and objects from museum storage for intentional re-boxing into archival safe containers, and ensured that volunteers had adequate weekly work duties
+		<br> - Provided quality control during object sorting and offered guidance if needed
+		<br> - Updated the museum's Collective Access database with pertinent collection provenance and location information, and retired all empty, old, and non-archival safe boxes</p>
+	</dd>
+
+  <dt>Public Programs Assistant</dt>
+	<dd>
+		<p> <i>August - December, 2022. Maxwell Museum of Antrhopology
+		<br> Supervisor: Julián Antonio Carrillo, PhD, jac123@unm.edu </i>
+		<br> Assisted the Public Programs manager in any and all duties relating to the planning, marketing, and execution of museum events:
+		<br> - Designed and created cohesive flyers, social media posts, and website banners that reflected the museum's brand identity
+		<br> - Implementation of annual events, such as the "Courtyard Concert Series" and "Annual Rug Auction," as well as newly produced programming
+		<br> Creation and implementation of visitor and audience surveys</p>
+	</dd>
+
+
+
+
+ <hr>
+
+ 
+
+  <h2 id="content">Museum and Laboratory Experience</h2>
+<!-- Break -->
+
+
+
+<dl>
+	<dt>Art and History Curatorial Assistant</dt>
+	<dd>
+		<p> <i>May 2023 - August 2024. Albuquerque Museum, Albuquerque, New Mexico
+<br>Supervisor: Alicia Romero, PhD, aliciaromero@cabq.gov </i>
+		<br>Support the Art and History curatorial team with any and all relevant tasks
+		<br> - Lead curator: <i>Good Dogs</i>. On view March - October 2025; in tandem with IMLS grant funded cataloguing and E-Museum exhibition for <i>Good Dogs</i>
+		<br> - Label copy writer for <i>News for the People</i>, and <i>Reading, Writing, and Reporting: A Snapshot of Journalism</i>. On view August 2023 - March 2024
+		<br> - Continued research for both temporary and permanent exhibitions, including artist and object biographies, provenance, histories/historiography
+		<br> - Extensive and continued cataloging efforts of history collections
+		<br> - Continued creative and technological skill building toward curatorial outcomes</p>
+	</dd>
+
+
+<dt>Art and History Curatorial Intern</dt>
+	<dd>
+		<p> <i>January 2023 - May 2023. Albuquerque Museum, Albuquerque, New Mexico
+<br>Supervisor: Josie Lopen, PhD, jmlopez@cabq.gov </i>
+		<br>Support the Art and History curatorial team with any and all relevant tasks
+		<br> - The Museum System (TMS) database training and consistent duties 
+		<br> - Permanent exhibition <i>Only In Albuquerque</i> demographic analysis survey and recommendations 
+		<br> - Continued research for both temporary and permanent exhibitions, including artist and object biographies, provenance, histories/historiography
+		<br> - Label and wall text writing training per museum guidelines, and execution
+		<br> - Creation of online mini-exhibitions</p>
+	</dd>
+
+ <dt>Archaeology Collections Assistant</dt>
+	<dd>
+		<p> <i>October 2021 - May, 2022. Maxwell Museum of Antrhopology
+		<br> Supervisor: Karen Price, priceke@unm.edu </i>
+		<br>Assisted in the cataloging, inventory, movement and storage of various ground stone archaeological artifacts</p>
+	</dd>
+
+  <dt>Administratvie Assistant</dt>
+	<dd>
+		<p> <i>August 2021 - December, 2023. Maxwell Museum of Antrhopology
+		<br> Supervisor: Sandy Lujan, lujans@unm.edu and Ethan Aronson, aronsone@unm.edu </i>
+		<br>Staff and office support:
+		<br> -  Answered and directed phone and email inquiries, relaid accurate messages, provided concise and relevant museum information
+ 		<br> - Upkeep, organization, and replenishment of office supplies
+ 		<br> - Maintained and updated student employee schedules, calendars, and additional interdepartmental paperwork
+		<br> - Updated and maintained the membership database
+		<br> - Designed and created cohesive flyers, social media posts, and website banners that reflect the museum's brand identity
+		<br> - Maintained and updated administrative assistant and gallery attendant manuals, ensuring up-to-date University and Museum guidelines were met
+		<br> Gallery and store attendant:
+		<br> - Actively greeted guests in a professional friendly manner, introduced visitors to the museum to ensure they have a safe and welcoming experience, and maintain a clean and professional workspace
+		<br> - Assisted with museum opening and closing procedures, managed general inquiries, stayed up-to-date on museum programming and operational changes
+		<br> - Processed student memberships, operated point-of-sale system and cash register, organized and displayed inventory</p>
+	</dd>
+
+ <dt>Interpretive Planning Assistant</dt>
+	<dd>
+		<p> <i>August - December, 2021. University of New Mexico
+		<br> Supervisor: April Kamp-Whittaker, akamp-whittaker@csuchico.edu </i>
+		<br>Japanese American Confinement Sites Grant, NPS, Amache Barrack – Interior Interpretation (P20AP00336). Grant held by Colorado Preservation Inc; Denver, Colorado</p>
+	</dd>
+
+  <dt>Archaeology Lab Assistant</dt>
+	<dd>
+		<p> <i>June 2021 - May, 2022. Office of Contract Archaeology, University of New Mexico
+		<br> Supervisor: Evan Kay, erkay@unm.edu </i>
+		<br>Flotation sample processesing:
+		<br> - Included dry screening, light fraction processing, floation, and heavy fraction processing. During these processes, any minute artifacts and ecofacts such as charcoal, faunal remains, lithics and microlithics, ceramics, and botanical remains are carefully collected for futher analysis by experts
+		<br>Water Canyon field sample database:
+		<br> - Inventory of samples, including the re-packaging of samples into appropriate and arcival-safe storage solutions. Re-labeling with updated and cohesive sample numbers
+		<br> - Database clean-up and numbering cohesion, including indicating which samples were physically accounted for and that all had a systematic sample number</p>
+	</dd>
+
+ <dt>Archaeology Collections Assistant</dt>
+	<dd>
+		<p> <i>May 2021 - August, 2022. Maxwell Museum of Anthropology, University of New Mexico
+		<br> Supervisor: Karen Price, priceke@unm.edu </i>
+		<br>Museum Studies minor coursework
+		<br> - Completed required 150 practicum hours
+		<br> - Inventory of Pottery Mound archaeological collection. Successful completion of 100 boxes containing approximately 1,750 objects. Additionally assisted the Senior Archaeology Curator with the inventory of sensitive burial objects for final submission to the national NAGPRA database
+		<br> - Complete catalog of whole and prtial vessels from the Cañada Alamosa collection
+		</p>
 	</dd>
