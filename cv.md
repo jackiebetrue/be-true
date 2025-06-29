@@ -65,8 +65,7 @@ show_tile: true
 
 
 
------
-
+<hr>
 
 
  <h2 id="content">Awards & Scholarships</h2>
@@ -76,17 +75,17 @@ show_tile: true
 <dl>
 	<dt>2025</dt>
 	<dd>
-		<p> <li>Joseph C. Gallagher Scholarship for Study in Ireland and Europe, UNM</li>
-		<br> <li>First Place - UNM History Graduate Student Association Poster Contest: 
-		<br><i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i></li>
-		<br> <li>History Graduate Student Association Grant, UNM</li></p>
+		<p> - Joseph C. Gallagher Scholarship for Study in Ireland and Europe, UNM
+		<br> - First Place - UNM History Graduate Student Association Poster Contest: 
+		<br><i> Scured Through Stone: The Power, Monuments, and Memory of a Viking Age Queen</i>
+		<br> - History Graduate Student Association Grant, UNM</p>
 	</dd>
 
  <dt>2024</dt>
 	<dd>
-		<p> <li>Timothy C. Graham Travel Award, Institute for Medieval Studies, UNM</li>
-		<br> <li>History Department Travel Grant, UNM</li>
-		<br> <li>Clarence and Emily Rogers Research Scholarship, Office of Graduate Studies, UNM</li></p>
+		<p> - Timothy C. Graham Travel Award, Institute for Medieval Studies, UNM
+		<br> - History Department Travel Grant, UNM
+		<br> - Clarence and Emily Rogers Research Scholarship, Office of Graduate Studies, UNM</p>
 	</dd>
 
   <dt>2022 - 24</dt>
@@ -124,7 +123,7 @@ show_tile: true
 
 
 
------
+<hr>
 
 
 
@@ -160,7 +159,7 @@ show_tile: true
 
 
 
- -----
+ <hr>
 
  
 
@@ -178,11 +177,27 @@ show_tile: true
 		<br> - Excavation of work area including the careful analysis and removal of plow and cultural layers
 		<br> - Rough and fine wet sieving and sorting processes
 		<br> - Object indentification, sorting, labeling, and temporary storage solutions
-		<br> Introduction to site photography and photogrammetry
-		<br> Cultural history lessons</p>
+		<br> - Introduction to site photography and photogrammetry
+		<br> - Cultural history lessons</p>
 	</dd>
 
  
 
 
+<hr>
 
+ 
+
+  <h2 id="content">Graduate Assistantships</h2>
+<!-- Break -->
+
+
+<dl>
+	<dt>History of Christianity to 1517, Teaching Assistant</dt>
+	<dd>
+		<p> <i>January - May, 2025. University of New Mexico Department of History
+		<br> Supervisor: Timothy Graham, PhD, tgraham@unm.edu </i>
+		<br> - Course grader, including holding regular office hours to meet with and assist students with any and all course and content related questions.
+		<br> - Maintained student records and upheld any federal, local and/or institutional policies (e.g. FERPA)
+		<br> - Assisted professor with any classroom, scheduling, or technical functions related to class
+	</dd>
